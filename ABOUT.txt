@@ -1,0 +1,3 @@
+This is a video tutorial on how to use basic react.
+
+YT video link: https://www.youtube.com/watch?v=SqcY0GlETPk
